@@ -1,15 +1,3 @@
-﻿; -----------------------------------------------------------
-; Microcontroller Based Systems Homework
-; Author name: Altangerel Turtogtokh
-; Neptun code: WE1TS0
-; -------------------------------------------------------------------
-; Task description: 
-;   Check whether an ASCII string is palindrome (it equals to its mirrored version).
-;   Input: Start address of the string (pointer)
-;   Output: CY=0 if plaindrome, CY=1 if not
-; -------------------------------------------------------------------
-
-
 ; Definitions
 ; -------------------------------------------------------------------
 
