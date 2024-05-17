@@ -1,1 +1,1 @@
-# In this repository, some of my personal projects are introduced. Smaller projects are not included, which can be shown on request.
+This repository holds some of my old projects. Each top-level directory holds a seperate project.
